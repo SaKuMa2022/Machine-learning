@@ -135,36 +135,6 @@ diff = end - start
 print('Execution time:', diff)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# # 1. Community support/Performance/Want to tune - XGBOOST
-# # 2. Hurry to train/Performance/Dont want to tune - LightGBM
-# # 3. More categorical, GPU, Large data - CatBoost
-
-# In[ ]:
-
 
 
 
