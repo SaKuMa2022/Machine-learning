@@ -12,7 +12,7 @@ import numpy as np
 # In[2]:
 
 
-DF = pd.read_csv(r"C:\Users\Sanjay\Downloads\cza-data-08-13 (1)\kmer-matrix-33gnome-out.csv", encoding= 'unicode_escape',index_col=0)
+DF = pd.read_csv(r"C:\Users\.........-out.csv", encoding= 'unicode_escape',index_col=0)
 
 
 # In[3]:
